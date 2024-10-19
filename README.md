@@ -4,6 +4,7 @@
 
 ```
 cd Backend
+npm install
 npm start
 ```
 
@@ -11,5 +12,6 @@ npm start
 
 ```
 cd Frontend
+npm install
 yarn ios
 ```
